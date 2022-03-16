@@ -1,0 +1,15 @@
+C:\Users\manel\OneDrive\Documentos\4toSemestre\ProgNET\ExamenPrim1\ExamenPrim1\bin\Debug\net6.0\ExamenPrim1.exe
+C:\Users\manel\OneDrive\Documentos\4toSemestre\ProgNET\ExamenPrim1\ExamenPrim1\bin\Debug\net6.0\ExamenPrim1.deps.json
+C:\Users\manel\OneDrive\Documentos\4toSemestre\ProgNET\ExamenPrim1\ExamenPrim1\bin\Debug\net6.0\ExamenPrim1.runtimeconfig.json
+C:\Users\manel\OneDrive\Documentos\4toSemestre\ProgNET\ExamenPrim1\ExamenPrim1\bin\Debug\net6.0\ExamenPrim1.dll
+C:\Users\manel\OneDrive\Documentos\4toSemestre\ProgNET\ExamenPrim1\ExamenPrim1\bin\Debug\net6.0\ref\ExamenPrim1.dll
+C:\Users\manel\OneDrive\Documentos\4toSemestre\ProgNET\ExamenPrim1\ExamenPrim1\bin\Debug\net6.0\ExamenPrim1.pdb
+C:\Users\manel\OneDrive\Documentos\4toSemestre\ProgNET\ExamenPrim1\ExamenPrim1\obj\Debug\net6.0\ExamenPrim1.csproj.AssemblyReference.cache
+C:\Users\manel\OneDrive\Documentos\4toSemestre\ProgNET\ExamenPrim1\ExamenPrim1\obj\Debug\net6.0\ExamenPrim1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manel\OneDrive\Documentos\4toSemestre\ProgNET\ExamenPrim1\ExamenPrim1\obj\Debug\net6.0\ExamenPrim1.AssemblyInfoInputs.cache
+C:\Users\manel\OneDrive\Documentos\4toSemestre\ProgNET\ExamenPrim1\ExamenPrim1\obj\Debug\net6.0\ExamenPrim1.AssemblyInfo.cs
+C:\Users\manel\OneDrive\Documentos\4toSemestre\ProgNET\ExamenPrim1\ExamenPrim1\obj\Debug\net6.0\ExamenPrim1.csproj.CoreCompileInputs.cache
+C:\Users\manel\OneDrive\Documentos\4toSemestre\ProgNET\ExamenPrim1\ExamenPrim1\obj\Debug\net6.0\ExamenPrim1.dll
+C:\Users\manel\OneDrive\Documentos\4toSemestre\ProgNET\ExamenPrim1\ExamenPrim1\obj\Debug\net6.0\ref\ExamenPrim1.dll
+C:\Users\manel\OneDrive\Documentos\4toSemestre\ProgNET\ExamenPrim1\ExamenPrim1\obj\Debug\net6.0\ExamenPrim1.pdb
+C:\Users\manel\OneDrive\Documentos\4toSemestre\ProgNET\ExamenPrim1\ExamenPrim1\obj\Debug\net6.0\ExamenPrim1.genruntimeconfig.cache
